@@ -1,4 +1,6 @@
 test
 ====
 
-Hello world
+Hello world.
+
+First commit.
